@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amin-banam" alt="amin-banam" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Amin-Banam](https://github.com/Amin-Banam)
+- 👨‍💻 All of my projects are available at [https://amin-banam.github.io/MohammadAminBanam/](https://amin-banam.github.io/MohammadAminBanam/)
 
 - 💬 Ask me about **react, javascript, CSS3, HTML5**
 
